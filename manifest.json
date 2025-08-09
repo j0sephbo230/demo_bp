@@ -1,0 +1,24 @@
+{
+ "format_version": 2, 
+ "header": { 
+  "description": "This is a Behavior Pack used to demo components!", 
+  "name": "Demo Behavior Pack", 
+  "uuid": "fb7a5ee1-2175-41cb-b17c-7cd4c8d01b2e", 
+  "version": [ 1, 0, 0 ], 
+  "min_engine_version": [1, 21, 80] 
+ }, 
+ "modules": [ 
+  { 
+   "description": "Demo Behavior Pack", 
+   "type": "data", 
+   "uuid": "deb63a40-6f4d-48c4-b9c9-6e0cc2b1d680", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ], 
+ "dependencies": [ 
+  { 
+   "uuid": "c9de1278-04bf-4c78-b3d5-53e4ae5f5eb4", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ] 
+}
